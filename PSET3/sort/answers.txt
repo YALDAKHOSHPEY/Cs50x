@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: beacause bubble sort has the worst timing
+
+sort2 uses: Merge Sort
+
+How do you know?: shortest timing beacause our week3
+
+sort3 uses: Selection Sort
+
+How do you know?: it is between the bubble and merge timing

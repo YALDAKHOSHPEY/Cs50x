@@ -1,0 +1,78 @@
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+/* Layout Styles */
+.content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.site-header {
+    background-color: #3DCEEA;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.site-name {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.site-nav {
+    margin-top: 10px;
+}
+
+.site-nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+.site-nav ul li {
+    margin: 0 10px;
+}
+
+.site-nav ul li a {
+    font-size: 1.2rem;
+}
+
+.home-section,
+.article-section,
+.about-section,
+.contact-section {
+    padding: 50px 0;
+}
+
+.article {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.site-footer {
+    background-color: #3DCEEA;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
